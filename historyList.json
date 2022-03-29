@@ -1,0 +1,385 @@
+[ {
+  "id" : "2fb0836b-d4f8-4388-a1a6-d97650e015b1",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:06",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "26ccaffc-7622-4823-aa9c-3df549539590",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "cheesepizza",
+    "amount" : 2,
+    "price" : 40000.0
+  },
+  "date" : "23/12/2021 18:06",
+  "overall" : null
+}, {
+  "id" : "2fb0836b-d4f8-4388-a1a6-d97650e015b1",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:06",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "26ccaffc-7622-4823-aa9c-3df549539590",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "cheesepizza",
+    "amount" : 2,
+    "price" : 40000.0
+  },
+  "date" : "23/12/2021 18:06",
+  "overall" : null
+}, {
+  "id" : "2fb0836b-d4f8-4388-a1a6-d97650e015b1",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:06",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "26ccaffc-7622-4823-aa9c-3df549539590",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "cheesepizza",
+    "amount" : 2,
+    "price" : 40000.0
+  },
+  "date" : "23/12/2021 18:06",
+  "overall" : null
+}, {
+  "id" : "40555ba1-3e6a-4bed-a950-4cdf4c37110d",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:12",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "26ccaffc-7622-4823-aa9c-3df549539590",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "Big",
+    "amount" : 1,
+    "price" : 50000.0
+  },
+  "date" : "23/12/2021 18:12",
+  "overall" : null
+}, {
+  "id" : "87554615-5c0a-42d0-b523-fdcc40c67976",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:12",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "bc36abe4-f380-417e-b327-c25d22cb7e43",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "cheeseburger",
+    "amount" : 1,
+    "price" : 40000.0
+  },
+  "date" : "23/12/2021 18:12",
+  "overall" : null
+}, {
+  "id" : "87554615-5c0a-42d0-b523-fdcc40c67976",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:12",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "bc36abe4-f380-417e-b327-c25d22cb7e43",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "cheeseburger",
+    "amount" : 1,
+    "price" : 40000.0
+  },
+  "date" : "23/12/2021 18:12",
+  "overall" : null
+}, {
+  "id" : "60f34145-d190-4a62-8d7a-130f5f606bce",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:14",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "bc36abe4-f380-417e-b327-c25d22cb7e43",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "StreetBurger",
+    "amount" : 2,
+    "price" : 20000.0
+  },
+  "date" : "23/12/2021 18:14",
+  "overall" : null
+}, {
+  "id" : "60f34145-d190-4a62-8d7a-130f5f606bce",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:14",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "bc36abe4-f380-417e-b327-c25d22cb7e43",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "StreetBurger",
+    "amount" : 2,
+    "price" : 20000.0
+  },
+  "date" : "23/12/2021 18:14",
+  "overall" : null
+}, {
+  "id" : "e5c274e2-4f80-42b5-9524-ebd0625cdc28",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:19",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "26ccaffc-7622-4823-aa9c-3df549539590",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "cheesepizza",
+    "amount" : 2,
+    "price" : 40000.0
+  },
+  "date" : "23/12/2021 18:19",
+  "overall" : null
+}, {
+  "id" : "e5c274e2-4f80-42b5-9524-ebd0625cdc28",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:19",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "2bb3cdbe-4de6-4f52-ab98-9eea9b30f6f2",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "Longer",
+    "amount" : 4,
+    "price" : 17500
+  },
+  "date" : "23/12/2021 18:19",
+  "overall" : null
+}, {
+  "id" : "62e46522-3838-4b59-9311-89115e40c07f",
+  "fullName" : null,
+  "createdDate" : "23/12/2021 18:53",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "292c3349-b6d4-446f-8a94-e1bea3b45422",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "fri",
+    "amount" : 4,
+    "price" : 10000.0
+  },
+  "date" : "23/12/2021 18:53",
+  "overall" : null
+}, {
+  "id" : "6d637cec-3240-46e4-b9d8-44b3a865c992",
+  "fullName" : null,
+  "createdDate" : "24/12/2021 08:52",
+  "updatedDate" : null,
+  "customer" : {
+    "id" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "updatedDate" : "23/12/2021 18:05",
+    "fullName" : "Farrux",
+    "createdDate" : "23/12/2021 18:05",
+    "phoneNumber" : "998931534602",
+    "address" : null,
+    "email" : null,
+    "password" : null,
+    "userRole" : "USER",
+    "smsCode" : 0,
+    "chatId" : "805413767",
+    "userState" : "CHANGE_PRODUCT",
+    "location" : {
+      "longitude" : 69.228532,
+      "latitude" : 41.326747
+    }
+  },
+  "product" : {
+    "basketId" : "292c3349-b6d4-446f-8a94-e1bea3b45422",
+    "userId" : "73edcc81-30fd-424c-9b38-7f3f2fd31d7d",
+    "foodName" : "Nuggets",
+    "amount" : 2,
+    "price" : 21500
+  },
+  "date" : "24/12/2021 08:52",
+  "overall" : null
+}]

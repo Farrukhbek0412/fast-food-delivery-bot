@@ -1,0 +1,101 @@
+[ {
+  "id" : "3db784e6-ea07-44c5-956b-271f9a93d523",
+  "fullName" : null,
+  "createdDate" : 1639679511895,
+  "updatedDate" : null,
+  "foodId" : "26ccaffc-7622-4823-aa9c-3df549539590",
+  "name" : "cheesepizza",
+  "description" : "32 sm for 2 person",
+  "price" : 40000.0,
+  "activeFood" : true
+}, {
+  "id" : "07f97e4f-0851-4a02-9f37-2e285e47cbf8",
+  "fullName" : null,
+  "createdDate" : 1639679535862,
+  "updatedDate" : null,
+  "foodId" : "26ccaffc-7622-4823-aa9c-3df549539590",
+  "name" : "Big",
+  "description" : "42 sm for 3 person",
+  "price" : 50000.0,
+  "activeFood" : true
+}, {
+  "id" : "3e7a94a8-ee53-4db7-bba8-3919b3d68661",
+  "fullName" : null,
+  "createdDate" : 1639679559464,
+  "updatedDate" : null,
+  "foodId" : "bc36abe4-f380-417e-b327-c25d22cb7e43",
+  "name" : "StreetBurger",
+  "description" : "twice-beef",
+  "price" : 20000.0,
+  "activeFood" : true
+}, {
+  "id" : "81ed23ff-ad44-4f88-9c27-3245057ff44a",
+  "fullName" : null,
+  "createdDate" : 1639680439102,
+  "updatedDate" : null,
+  "foodId" : "bc36abe4-f380-417e-b327-c25d22cb7e43",
+  "name" : "cheeseburger",
+  "description" : "beef",
+  "price" : 40000.0,
+  "activeFood" : true
+}, {
+  "id" : "5a451426-acfd-4062-9e9b-61ab2631e789",
+  "fullName" : null,
+  "createdDate" : 1639716439243,
+  "updatedDate" : null,
+  "foodId" : "292c3349-b6d4-446f-8a94-e1bea3b45422",
+  "name" : "fri",
+  "description" : "best",
+  "price" : 10000.0,
+  "activeFood" : true
+}, {
+  "id" : "08106a2c-150d-48eb-892c-64440e7f6afb",
+  "fullName" : null,
+  "createdDate" : 1640100750231,
+  "updatedDate" : null,
+  "foodId" : "292c3349-b6d4-446f-8a94-e1bea3b45422",
+  "name" : "Nuggets",
+  "description" : "4 nuggets for every person",
+  "price" : 21500,
+  "activeFood" : true
+}, {
+  "id" : "1ff1a250-3f78-46ce-9227-a5ec189ba785",
+  "fullName" : null,
+  "createdDate" : 1640100944008,
+  "updatedDate" : null,
+  "foodId" : "2bb3cdbe-4de6-4f52-ab98-9eea9b30f6f2",
+  "name" : "Longer",
+  "description" : "two-chicken wings",
+  "price" : 17500,
+  "activeFood" : true
+}, {
+  "id" : "c264cdb3-0968-415c-ad50-0d23a1bf14de",
+  "fullName" : null,
+  "createdDate" : 1640101051528,
+  "updatedDate" : null,
+  "foodId" : "2bb3cdbe-4de6-4f52-ab98-9eea9b30f6f2",
+  "name" : "Canadian",
+  "description" : "so delicious",
+  "price" : 20000,
+  "activeFood" : true
+}, {
+  "id" : "f6667500-afab-4fd9-9274-27b07a827556",
+  "fullName" : null,
+  "createdDate" : 1640101136268,
+  "updatedDate" : null,
+  "foodId" : "65db3fb7-7e7a-4ff1-bd84-91777742393f",
+  "name" : "Pepsi",
+  "description" : "1,5 liter ",
+  "price" : 10000,
+  "activeFood" : true
+}, {
+  "id" : "842cc025-8f07-4916-a50b-cf02ad8e1b8a",
+  "fullName" : null,
+  "createdDate" : 1640101203828,
+  "updatedDate" : null,
+  "foodId" : "65db3fb7-7e7a-4ff1-bd84-91777742393f",
+  "name" : "Cola",
+  "description" : "0,5 liter",
+  "price" : 5000,
+  "activeFood" : true
+} ]

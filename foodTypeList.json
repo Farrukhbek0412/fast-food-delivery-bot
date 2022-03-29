@@ -1,0 +1,57 @@
+[ {
+  "id" : "df2c417d-949a-4d93-a994-72ae23100d0e",
+  "fullName" : null,
+  "createdDate" : 1639716437091,
+  "updatedDate" : null,
+  "categoryName" : "sabzavot",
+  "categoryId" : "4a6a22c0-91e8-474c-99c0-352f371419b4",
+  "activeFoodType" : false
+}, {
+  "id" : "501517b6-d782-4bfb-beac-94b90032b373",
+  "fullName" : null,
+  "createdDate" : 1639716437091,
+  "updatedDate" : null,
+  "categoryName" : "meva",
+  "categoryId" : "469bae09-0cc8-4bbc-82cb-8aa6c5a8a1dc",
+  "activeFoodType" : false
+}, {
+  "id" : "3f0e6251-ab8e-452b-9fb3-65db817ccea0",
+  "fullName" : null,
+  "createdDate" : 1639716437091,
+  "updatedDate" : null,
+  "categoryName" : "Pizza \uD83C\uDF55",
+  "categoryId" : "26ccaffc-7622-4823-aa9c-3df549539590",
+  "activeFoodType" : true
+}, {
+  "id" : "0b21e8a4-1cdd-4bb4-ac3e-2e7798c54b66",
+  "fullName" : null,
+  "createdDate" : 1639716437092,
+  "updatedDate" : null,
+  "categoryName" : "BURGERS \uD83C\uDF54",
+  "categoryId" : "bc36abe4-f380-417e-b327-c25d22cb7e43",
+  "activeFoodType" : true
+}, {
+  "id" : "cfdc4ace-060c-4c3e-bb75-a0b7f1c675f7",
+  "fullName" : null,
+  "createdDate" : 1639716437091,
+  "updatedDate" : null,
+  "categoryName" : "Snacks \uD83C\uDF5F",
+  "categoryId" : "292c3349-b6d4-446f-8a94-e1bea3b45422",
+  "activeFoodType" : true
+}, {
+  "id" : "b599010e-9fa0-40d3-ba69-ae7762cc8b3c",
+  "fullName" : null,
+  "createdDate" : 1640100636898,
+  "updatedDate" : null,
+  "categoryName" : "Hod dogs \uD83C\uDF2D",
+  "categoryId" : "2bb3cdbe-4de6-4f52-ab98-9eea9b30f6f2",
+  "activeFoodType" : true
+}, {
+  "id" : "3493f72d-77c9-4aa5-82d9-af4d0eeb655a",
+  "fullName" : null,
+  "createdDate" : 1640100672098,
+  "updatedDate" : null,
+  "categoryName" : "Drinks \uD83C\uDF78",
+  "categoryId" : "65db3fb7-7e7a-4ff1-bd84-91777742393f",
+  "activeFoodType" : true
+} ]
